@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+[dir="rtl"] {
+  text-align: right;
+}
+
+[dir="ltr"] {
+  text-align: left;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+#servicesContainer .card img {
+  height: 150px;
+  object-fit: cover;
+}

@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "name": {"ar": "Netflix", "en": "Netflix"},
+      "duration": {"ar": "شهر واحد", "en": "1 Month"},
+      "price": {"ar": "10 دولار", "en": "$10"},
+      "image": "https://via.placeholder.com/150?text=Netflix"  // استبدل برابط صورة حقيقية
+    },
+    {
+      "name": {"ar": "Snapchat", "en": "Snapchat"},
+      "duration": {"ar": "شهر واحد", "en": "1 Month"},
+      "price": {"ar": "5 دولار", "en": "$5"},
+      "image": "https://via.placeholder.com/150?text=Snapchat"
+    },
+    {
+      "name": {"ar": "Spotify", "en": "Spotify"},
+      "duration": {"ar": "شهر واحد", "en": "1 Month"},
+      "price": {"ar": "8 دولار", "en": "$8"},
+      "image": "https://via.placeholder.com/150?text=Spotify"
+    },
+    {
+      "name": {"ar": "YouTube Premium", "en": "YouTube Premium"},
+      "duration": {"ar": "شهر واحد", "en": "1 Month"},
+      "price": {"ar": "12 دولار", "en": "$12"},
+      "image": "https://via.placeholder.com/150?text=YouTube"
+    }
+  ],
+  "texts": {
+    "homeTitle": {"ar": "شحن اشتراكات التطبيقات", "en": "App Subscription Recharge"},
+    "aboutTitle": {"ar": "من نحن", "en": "About Us"},
+    "contactTitle": {"ar": "تواصل معنا", "en": "Contact Us"},
+    "aboutContent": {"ar": "نحن نقدم خدمات شحن اشتراكات التطبيقات بأسعار تنافسية وسرعة في التسليم.", "en": "We offer competitive app subscription recharge services with fast delivery."},
+    "contactContent": {"ar": "تواصل معنا عبر البريد الإلكتروني أو Snapchat.", "en": "Contact us via email or Snapchat."},
+    "snapchatButton": {"ar": "تواصل معنا عبر سناب شات", "en": "Contact us on Snapchat"}
+  }
+}
